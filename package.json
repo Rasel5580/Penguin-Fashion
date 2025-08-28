@@ -1,0 +1,15 @@
+{
+  "name": "batch9-penguin-fashion-resources-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "postcss tailwind.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^7.1.3"
+  }
+}
